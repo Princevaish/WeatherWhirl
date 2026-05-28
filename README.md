@@ -1,4 +1,4 @@
-# 🌦️ WeatherWhirl
+#  WeatherWhirl
 
 **WeatherWhirl** is a sleek and user-friendly Android application that provides real-time weather updates. It uses the **OpenWeather API** to fetch current weather information and displays it in a clean, responsive UI built with **XML**. The backend is powered by **Kotlin**, with **Retrofit** handling the API requests efficiently.
 
